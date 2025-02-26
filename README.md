@@ -1,12 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Juan David</h1>
 
-- 🔭 I’m currently working on **Open Source project**
-
-- 🌱 I’m currently learning **web development.**
-
-- 👯 I’m looking to collaborate on **front end apps**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
