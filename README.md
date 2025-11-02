@@ -31,13 +31,8 @@ Currently developing a deep reinforcement learning project using the Atari game 
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=juandarn&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="100%"/>
     </td>
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=juandarn&theme=vue-dark&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandarn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="40%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandarn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="100%"/>
     </td>
   </tr>
 </table>
