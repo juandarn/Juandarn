@@ -11,7 +11,7 @@ Currently developing a deep reinforcement learning project using the Atari game 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juan-david-rios-nisperuza-442712297/" target="_blank">
+<a href="https://www.linkedin.com/in/juandarn05/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn Profile" height="40" />
 </a>
 <a href="https://discordapp.com/users/921955608893223007" target="_blank">
