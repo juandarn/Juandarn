@@ -1,11 +1,12 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/03579b129988995.6176e2aa1062e.gif" alt="Diseño minimalista" width="1000" height="400">
 <h1 align="center">Hi, I'm Juan David Rios</h1>
-<h3>Backend Developer | AI Enthusiast</h3>
+<h3>Full Stack Developer | AI Enthusiast</h3>
 
 <p>
-Focused on building scalable systems, efficient APIs, and integrating intelligence into modern applications.  
+Focused on building scalable systems, efficient APIs, and intuitive user interfaces, integrating intelligence into modern end-to-end applications.  
 Currently developing a deep reinforcement learning project using the Atari game <em>Freeway</em>.
 </p>
+
 
 
 
@@ -22,7 +23,7 @@ Currently developing a deep reinforcement learning project using the Atari game 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,java,spring,html,css,javascript,react,mongodb,postgresql,flutter&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,angular,react,nestjs,nodejs,java,python,mongodb,postgresql,postman&theme=dark&perline=15" alt="My Skills" /></a>
 
 <hr>
 
