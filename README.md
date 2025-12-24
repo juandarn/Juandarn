@@ -1,29 +1,27 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/03579b129988995.6176e2aa1062e.gif" alt="Diseño minimalista" width="1000" height="400">
+
 <h1 align="center">Hi, I'm Juan David Rios</h1>
-<h3>Full Stack Developer | AI Enthusiast</h3>
+<h3>Full Stack Developer @ Yuno | AI Enthusiast</h3>
 
 <p>
 Focused on building scalable systems, efficient APIs, and intuitive user interfaces, integrating intelligence into modern end-to-end applications.  
-Currently developing a deep reinforcement learning project using the Atari game <em>Freeway</em>.
+Currently working as a <strong>Full Stack Developer at Yuno</strong> and developing a deep reinforcement learning project using the Atari game <em>Freeway</em>.
 </p>
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juandarn05/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn Profile" height="40" />
-</a>
-<a href="https://discordapp.com/users/921955608893223007" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord Profile" height="40" />
-</a>
-
-
+  <a href="https://www.linkedin.com/in/juandarn05/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn Profile" height="40" />
+  </a>
+  <a href="https://discordapp.com/users/921955608893223007" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord Profile" height="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,javascript,angular,react,nestjs,nodejs,java,python,mongodb,postgresql,postman&theme=dark&perline=15" alt="My Skills" /></a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,angular,react,nestjs,nodejs,java,python,mongodb,postgresql,postman&theme=dark&perline=15" alt="My Skills" />
+</a>
 
 <hr>
 
@@ -37,5 +35,3 @@ Currently developing a deep reinforcement learning project using the Atari game 
     </td>
   </tr>
 </table>
-
-
